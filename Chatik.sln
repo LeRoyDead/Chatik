@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatik", "Chatik\Chatik.csproj", "{64E00390-7239-4D3A-8922-46F35C1B62D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatikHost", "ChatikHost\ChatikHost.csproj", "{56DC007E-9FA8-4649-83AB-D43285DAABA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientChat", "ClientChat\ClientChat.csproj", "{662B0E3E-39BB-4F61-9B88-441A5596ED69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64E00390-7239-4D3A-8922-46F35C1B62D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E00390-7239-4D3A-8922-46F35C1B62D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E00390-7239-4D3A-8922-46F35C1B62D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E00390-7239-4D3A-8922-46F35C1B62D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56DC007E-9FA8-4649-83AB-D43285DAABA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56DC007E-9FA8-4649-83AB-D43285DAABA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56DC007E-9FA8-4649-83AB-D43285DAABA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56DC007E-9FA8-4649-83AB-D43285DAABA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{662B0E3E-39BB-4F61-9B88-441A5596ED69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662B0E3E-39BB-4F61-9B88-441A5596ED69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662B0E3E-39BB-4F61-9B88-441A5596ED69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662B0E3E-39BB-4F61-9B88-441A5596ED69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CDD64F3-07D5-45EC-BF4F-33F728F95C0E}
+	EndGlobalSection
+EndGlobal
